@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "landingpages",
+  "info": {
+    "singularName": "landingpage",
+    "pluralName": "landingpages",
+    "displayName": "landingpage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "text1": {
+      "type": "text"
+    },
+    "text2": {
+      "type": "text"
+    },
+    "imgurl": {
+      "type": "string"
+    },
+    "attribs": {
+      "type": "text"
+    }
+  }
+}
