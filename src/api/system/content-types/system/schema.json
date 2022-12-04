@@ -1,0 +1,48 @@
+{
+  "kind": "collectionType",
+  "collectionName": "systems",
+  "info": {
+    "singularName": "system",
+    "pluralName": "systems",
+    "displayName": "system"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "text1": {
+      "type": "text"
+    },
+    "text2": {
+      "type": "text"
+    },
+    "country": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "text3": {
+      "type": "text"
+    },
+    "titel2": {
+      "type": "string"
+    },
+    "img2": {
+      "type": "string"
+    },
+    "attribs": {
+      "type": "text"
+    },
+    "text4": {
+      "type": "text"
+    },
+    "titel3": {
+      "type": "string"
+    }
+  }
+}
