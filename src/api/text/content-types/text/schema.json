@@ -38,6 +38,9 @@
     },
     "language": {
       "type": "string"
+    },
+    "systemtitel": {
+      "type": "string"
     }
   }
 }

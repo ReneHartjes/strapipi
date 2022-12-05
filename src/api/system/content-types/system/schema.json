@@ -4,7 +4,8 @@
   "info": {
     "singularName": "system",
     "pluralName": "systems",
-    "displayName": "system"
+    "displayName": "system",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -42,6 +43,9 @@
       "type": "text"
     },
     "titel3": {
+      "type": "string"
+    },
+    "systemtitel": {
       "type": "string"
     }
   }
