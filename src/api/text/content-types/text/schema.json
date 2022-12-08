@@ -41,6 +41,12 @@
     },
     "systemtitel": {
       "type": "string"
+    },
+    "filter": {
+      "type": "text"
+    },
+    "search": {
+      "type": "text"
     }
   }
 }

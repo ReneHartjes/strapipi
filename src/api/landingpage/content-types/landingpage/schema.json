@@ -35,6 +35,15 @@
     },
     "systemtitel": {
       "type": "string"
+    },
+    "filter": {
+      "type": "text"
+    },
+    "thumbimg": {
+      "type": "string"
+    },
+    "search": {
+      "type": "text"
     }
   }
 }

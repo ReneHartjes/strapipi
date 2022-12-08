@@ -4,7 +4,8 @@
   "info": {
     "singularName": "product",
     "pluralName": "products",
-    "displayName": "product"
+    "displayName": "product",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -33,6 +34,18 @@
       "type": "decimal"
     },
     "discount": {
+      "type": "string"
+    },
+    "filter": {
+      "type": "text"
+    },
+    "search": {
+      "type": "text"
+    },
+    "documents": {
+      "type": "string"
+    },
+    "free1": {
       "type": "string"
     }
   }
