@@ -56,6 +56,16 @@
     },
     "thumbimg": {
       "type": "string"
+    },
+    "imgtry": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
