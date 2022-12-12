@@ -47,6 +47,9 @@
     },
     "free1": {
       "type": "string"
+    },
+    "details": {
+      "type": "json"
     }
   }
 }
