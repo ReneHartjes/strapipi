@@ -61,6 +61,12 @@
     },
     "details": {
       "type": "json"
+    },
+    "imgurl2": {
+      "type": "string"
+    },
+    "imgurl3": {
+      "type": "string"
     }
   }
 }

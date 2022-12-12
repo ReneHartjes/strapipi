@@ -70,6 +70,18 @@
     },
     "details": {
       "type": "json"
+    },
+    "imgurl2": {
+      "type": "string"
+    },
+    "imgurl3": {
+      "type": "string"
+    },
+    "title4": {
+      "type": "string"
+    },
+    "title5": {
+      "type": "string"
     }
   }
 }
