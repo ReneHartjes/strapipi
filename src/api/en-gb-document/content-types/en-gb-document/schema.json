@@ -1,0 +1,54 @@
+{
+  "kind": "collectionType",
+  "collectionName": "en_gb_documents",
+  "info": {
+    "singularName": "en-gb-document",
+    "pluralName": "en-gb-documents",
+    "displayName": "en-gb-document"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "filename": {
+      "type": "string"
+    },
+    "masternummer": {
+      "type": "string"
+    },
+    "size": {
+      "type": "string"
+    },
+    "suffix": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "filetype": {
+      "type": "string"
+    },
+    "artikelnummer": {
+      "type": "string"
+    },
+    "alteartikelnummer": {
+      "type": "string"
+    },
+    "category1": {
+      "type": "string"
+    },
+    "category2": {
+      "type": "string"
+    },
+    "category3": {
+      "type": "string"
+    },
+    "DOPoProPer": {
+      "type": "string"
+    },
+    "free1": {
+      "type": "string"
+    }
+  }
+}
