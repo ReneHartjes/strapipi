@@ -4,7 +4,8 @@
   "info": {
     "singularName": "nb-no-document",
     "pluralName": "nb-no-documents",
-    "displayName": "nb-no-document"
+    "displayName": "nb-no-document",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -48,6 +49,9 @@
       "type": "string"
     },
     "free1": {
+      "type": "string"
+    },
+    "farbe": {
       "type": "string"
     }
   }

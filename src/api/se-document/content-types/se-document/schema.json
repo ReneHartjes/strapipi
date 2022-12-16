@@ -50,6 +50,9 @@
     },
     "free1": {
       "type": "string"
+    },
+    "farbe": {
+      "type": "string"
     }
   }
 }
