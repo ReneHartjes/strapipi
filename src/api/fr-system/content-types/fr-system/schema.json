@@ -1,0 +1,96 @@
+{
+  "kind": "collectionType",
+  "collectionName": "fr_systems",
+  "info": {
+    "singularName": "fr-system",
+    "pluralName": "fr-systems",
+    "displayName": "fr-system"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titel1": {
+      "type": "string"
+    },
+    "titel2": {
+      "type": "string"
+    },
+    "titel3": {
+      "type": "string"
+    },
+    "titel4": {
+      "type": "string"
+    },
+    "titel5": {
+      "type": "string"
+    },
+    "titel6": {
+      "type": "string"
+    },
+    "text1": {
+      "type": "text"
+    },
+    "text2": {
+      "type": "text"
+    },
+    "text3": {
+      "type": "text"
+    },
+    "text4": {
+      "type": "text"
+    },
+    "text5": {
+      "type": "text"
+    },
+    "text6": {
+      "type": "text"
+    },
+    "image1": {
+      "type": "string"
+    },
+    "image2": {
+      "type": "string"
+    },
+    "image3": {
+      "type": "string"
+    },
+    "image4": {
+      "type": "string"
+    },
+    "image5": {
+      "type": "string"
+    },
+    "details1": {
+      "type": "json"
+    },
+    "details2": {
+      "type": "json"
+    },
+    "details3": {
+      "type": "json"
+    },
+    "search": {
+      "type": "string"
+    },
+    "filter1": {
+      "type": "string"
+    },
+    "filter2": {
+      "type": "string"
+    },
+    "metatext": {
+      "type": "string"
+    },
+    "metatitle": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    }
+  }
+}

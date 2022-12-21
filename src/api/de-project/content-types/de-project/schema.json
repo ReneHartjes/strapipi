@@ -1,0 +1,79 @@
+{
+  "kind": "collectionType",
+  "collectionName": "de_projects",
+  "info": {
+    "singularName": "de-project",
+    "pluralName": "de-projects",
+    "displayName": "de-project",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titel1": {
+      "type": "string"
+    },
+    "titel2": {
+      "type": "string"
+    },
+    "titel3": {
+      "type": "string"
+    },
+    "text1": {
+      "type": "text"
+    },
+    "text2": {
+      "type": "text"
+    },
+    "text3": {
+      "type": "text"
+    },
+    "image1": {
+      "type": "string"
+    },
+    "image2": {
+      "type": "string"
+    },
+    "image3": {
+      "type": "string"
+    },
+    "details1": {
+      "type": "json"
+    },
+    "details2": {
+      "type": "json"
+    },
+    "details3": {
+      "type": "json"
+    },
+    "metatext": {
+      "type": "string"
+    },
+    "metatitle": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "search": {
+      "type": "string"
+    },
+    "filter1": {
+      "type": "string"
+    },
+    "filter2": {
+      "type": "string"
+    },
+    "category1": {
+      "type": "string"
+    },
+    "category2": {
+      "type": "string"
+    }
+  }
+}
