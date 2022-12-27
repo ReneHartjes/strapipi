@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "newsletters",
+  "info": {
+    "singularName": "newsletter",
+    "pluralName": "newsletters",
+    "displayName": "newsletter",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "titel": {
+      "type": "string"
+    },
+    "filter": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "data1": {
+      "type": "string"
+    },
+    "data2": {
+      "type": "string"
+    },
+    "data3": {
+      "type": "string"
+    }
+  }
+}
