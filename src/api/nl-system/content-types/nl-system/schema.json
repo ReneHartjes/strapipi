@@ -4,7 +4,8 @@
   "info": {
     "singularName": "nl-system",
     "pluralName": "nl-systems",
-    "displayName": "nl-system"
+    "displayName": "nl-system",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -91,6 +92,26 @@
     },
     "country": {
       "type": "string"
+    },
+    "sliderimgs": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "mainimage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }

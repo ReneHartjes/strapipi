@@ -23,12 +23,6 @@
     "titel4": {
       "type": "string"
     },
-    "titel5": {
-      "type": "string"
-    },
-    "titel6": {
-      "type": "string"
-    },
     "text1": {
       "type": "text"
     },
@@ -42,19 +36,16 @@
       "type": "text"
     },
     "text5": {
-      "type": "text"
+      "type": "string"
     },
     "text6": {
       "type": "text"
     },
-    "details1": {
-      "type": "json"
+    "titel5": {
+      "type": "string"
     },
-    "details2": {
-      "type": "json"
-    },
-    "details3": {
-      "type": "json"
+    "titel6": {
+      "type": "string"
     },
     "image1": {
       "type": "string"
@@ -70,6 +61,15 @@
     },
     "image5": {
       "type": "string"
+    },
+    "details1": {
+      "type": "json"
+    },
+    "details2": {
+      "type": "json"
+    },
+    "details3": {
+      "type": "json"
     },
     "search": {
       "type": "string"
@@ -91,6 +91,26 @@
     },
     "country": {
       "type": "string"
+    },
+    "sliderimgs": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "mainimage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }

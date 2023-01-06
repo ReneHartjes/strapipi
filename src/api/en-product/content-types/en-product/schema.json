@@ -4,7 +4,8 @@
   "info": {
     "singularName": "en-product",
     "pluralName": "en-products",
-    "displayName": "en-product"
+    "displayName": "en-product",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -81,6 +82,48 @@
       "type": "string"
     },
     "search": {
+      "type": "string"
+    },
+    "sliderimgs": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "mainimage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "documents": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "masternummer": {
+      "type": "string"
+    },
+    "artikelnummer": {
+      "type": "string"
+    },
+    "region": {
       "type": "string"
     }
   }
